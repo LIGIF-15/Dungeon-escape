@@ -1,0 +1,17 @@
+Game theme: 
+Dungeons&Dragons style dungeon
+Main objective:
+Solve puzzles to escape dungeon
+Story concept:
+-Woke up in dungeon
+-Starts solving puzzles to escape
+
+Game:
+Puzzle mechanics:
+-Make minesweeper the core gameplay logic
+-Left-click: Mark ‘non-mine’
+-Right-click: Mark ‘mine’
+Special ‘mines’:
+‘+ mine’ : 
+‘x mine’ :
+‘y mine’ :
